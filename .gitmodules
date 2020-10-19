@@ -13,3 +13,6 @@
 [submodule "2-AzimMuradov"]
 	path = 2-AzimMuradov
 	url = https://github.com/spbu-coding/2-AzimMuradov.git
+[submodule "2-baranov1dragonsuper"]
+	path = 2-baranov1dragonsuper
+	url = https://github.com/spbu-coding/2-baranov1dragonsuper.git
