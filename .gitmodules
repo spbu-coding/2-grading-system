@@ -73,3 +73,6 @@
 [submodule "2-pervomai"]
 	path = 2-pervomai
 	url = https://github.com/spbu-coding/2-pervomai.git
+[submodule "2-PyRayman"]
+	path = 2-PyRayman
+	url = https://github.com/spbu-coding/2-PyRayman.git
