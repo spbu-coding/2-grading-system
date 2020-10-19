@@ -94,3 +94,6 @@
 [submodule "2-smmac72"]
 	path = 2-smmac72
 	url = https://github.com/spbu-coding/2-smmac72.git
+[submodule "2-SofuriHafe"]
+	path = 2-SofuriHafe
+	url = https://github.com/spbu-coding/2-SofuriHafe.git
