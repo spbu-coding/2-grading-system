@@ -61,3 +61,6 @@
 [submodule "2-MDubovik"]
 	path = 2-MDubovik
 	url = https://github.com/spbu-coding/2-MDubovik.git
+[submodule "2-michael555444"]
+	path = 2-michael555444
+	url = https://github.com/spbu-coding/2-michael555444.git
