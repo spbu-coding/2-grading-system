@@ -34,3 +34,6 @@
 [submodule "2-GalbadrakhB"]
 	path = 2-GalbadrakhB
 	url = https://github.com/spbu-coding/2-GalbadrakhB.git
+[submodule "2-IAmFunkyFrog"]
+	path = 2-IAmFunkyFrog
+	url = https://github.com/spbu-coding/2-IAmFunkyFrog.git
