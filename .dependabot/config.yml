@@ -5,6 +5,8 @@ update_configs:
     update_schedule: "daily"
     allowed_updates:
       - match:
+          dependency_name: "2-Lev0nid"
+      - match:
           dependency_name: "2-kettlberry"
       - match:
           dependency_name: "2-IraSheremet"
