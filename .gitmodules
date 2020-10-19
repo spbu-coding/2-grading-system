@@ -106,3 +106,6 @@
 [submodule "2-TimPushkin"]
 	path = 2-TimPushkin
 	url = https://github.com/spbu-coding/2-TimPushkin.git
+[submodule "2-Tizain"]
+	path = 2-Tizain
+	url = https://github.com/spbu-coding/2-Tizain.git
