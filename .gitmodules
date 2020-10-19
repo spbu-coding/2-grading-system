@@ -31,3 +31,6 @@
 [submodule "2-foreverjun"]
 	path = 2-foreverjun
 	url = https://github.com/spbu-coding/2-foreverjun.git
+[submodule "2-GalbadrakhB"]
+	path = 2-GalbadrakhB
+	url = https://github.com/spbu-coding/2-GalbadrakhB.git
