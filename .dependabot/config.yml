@@ -5,6 +5,8 @@ update_configs:
     update_schedule: "daily"
     allowed_updates:
       - match:
+          dependency_name: "2-foreverjun"
+      - match:
           dependency_name: "2-esvault"
       - match:
           dependency_name: "2-depressedwizard"
