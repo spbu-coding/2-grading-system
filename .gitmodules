@@ -7,3 +7,6 @@
 [submodule "2-artmotika"]
 	path = 2-artmotika
 	url = https://github.com/spbu-coding/2-artmotika.git
+[submodule "2-AShlegel"]
+	path = 2-AShlegel
+	url = https://github.com/spbu-coding/2-AShlegel.git
