@@ -97,3 +97,6 @@
 [submodule "2-SofuriHafe"]
 	path = 2-SofuriHafe
 	url = https://github.com/spbu-coding/2-SofuriHafe.git
+[submodule "2-st085683"]
+	path = 2-st085683
+	url = https://github.com/spbu-coding/2-st085683.git
