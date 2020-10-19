@@ -118,3 +118,6 @@
 [submodule "2-XeniaKart"]
 	path = 2-XeniaKart
 	url = https://github.com/spbu-coding/2-XeniaKart.git
+[submodule "2-zishkaz"]
+	path = 2-zishkaz
+	url = https://github.com/spbu-coding/2-zishkaz.git
