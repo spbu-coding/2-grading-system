@@ -25,3 +25,6 @@
 [submodule "2-depressedwizard"]
 	path = 2-depressedwizard
 	url = https://github.com/spbu-coding/2-depressedwizard.git
+[submodule "2-esvault"]
+	path = 2-esvault
+	url = https://github.com/spbu-coding/2-esvault.git
