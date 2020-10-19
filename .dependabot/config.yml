@@ -5,6 +5,8 @@ update_configs:
     update_schedule: "daily"
     allowed_updates:
       - match:
+          dependency_name: "2-AzimMuradov"
+      - match:
           dependency_name: "2-AShlegel"
       - match:
           dependency_name: "2-artmotika"
