@@ -58,3 +58,6 @@
 [submodule "2-MashrurIslam"]
 	path = 2-MashrurIslam
 	url = https://github.com/spbu-coding/2-MashrurIslam.git
+[submodule "2-MDubovik"]
+	path = 2-MDubovik
+	url = https://github.com/spbu-coding/2-MDubovik.git
