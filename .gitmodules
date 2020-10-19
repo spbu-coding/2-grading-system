@@ -43,3 +43,6 @@
 [submodule "2-IraSheremet"]
 	path = 2-IraSheremet
 	url = https://github.com/spbu-coding/2-IraSheremet.git
+[submodule "2-kettlberry"]
+	path = 2-kettlberry
+	url = https://github.com/spbu-coding/2-kettlberry.git
