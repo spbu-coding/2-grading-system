@@ -55,3 +55,6 @@
 [submodule "2-maria-atmazhitova"]
 	path = 2-maria-atmazhitova
 	url = https://github.com/spbu-coding/2-maria-atmazhitova.git
+[submodule "2-MashrurIslam"]
+	path = 2-MashrurIslam
+	url = https://github.com/spbu-coding/2-MashrurIslam.git
