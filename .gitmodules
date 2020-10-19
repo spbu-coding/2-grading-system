@@ -37,3 +37,6 @@
 [submodule "2-IAmFunkyFrog"]
 	path = 2-IAmFunkyFrog
 	url = https://github.com/spbu-coding/2-IAmFunkyFrog.git
+[submodule "2-IlyaMuravjov"]
+	path = 2-IlyaMuravjov
+	url = https://github.com/spbu-coding/2-IlyaMuravjov.git
