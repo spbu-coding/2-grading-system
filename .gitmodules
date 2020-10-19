@@ -49,3 +49,6 @@
 [submodule "2-Lev0nid"]
 	path = 2-Lev0nid
 	url = https://github.com/spbu-coding/2-Lev0nid.git
+[submodule "2-MansurSakiev"]
+	path = 2-MansurSakiev
+	url = https://github.com/spbu-coding/2-MansurSakiev.git
