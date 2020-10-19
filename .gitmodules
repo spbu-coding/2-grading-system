@@ -109,3 +109,6 @@
 [submodule "2-Tizain"]
 	path = 2-Tizain
 	url = https://github.com/spbu-coding/2-Tizain.git
+[submodule "2-ToTTopBYxe"]
+	path = 2-ToTTopBYxe
+	url = https://github.com/spbu-coding/2-ToTTopBYxe.git
