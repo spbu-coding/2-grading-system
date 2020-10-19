@@ -64,3 +64,6 @@
 [submodule "2-michael555444"]
 	path = 2-michael555444
 	url = https://github.com/spbu-coding/2-michael555444.git
+[submodule "2-Mishavint"]
+	path = 2-Mishavint
+	url = https://github.com/spbu-coding/2-Mishavint.git
