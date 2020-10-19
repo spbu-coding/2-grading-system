@@ -82,3 +82,6 @@
 [submodule "2-Ramazanov-Amir"]
 	path = 2-Ramazanov-Amir
 	url = https://github.com/spbu-coding/2-Ramazanov-Amir.git
+[submodule "2-rudolf101"]
+	path = 2-rudolf101
+	url = https://github.com/spbu-coding/2-rudolf101.git
