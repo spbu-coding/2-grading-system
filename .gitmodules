@@ -127,3 +127,6 @@
 [submodule "2-abn1999"]
 	path = 2-abn1999
 	url = https://github.com/spbu-coding/2-abn1999.git
+[submodule "2-fertmanasa"]
+	path = 2-fertmanasa
+	url = https://github.com/spbu-coding/2-fertmanasa.git
