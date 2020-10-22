@@ -124,3 +124,6 @@
 [submodule "2-AlexanderRunov"]
 	path = 2-AlexanderRunov
 	url = https://github.com/spbu-coding/2-AlexanderRunov.git
+[submodule "2-abn1999"]
+	path = 2-abn1999
+	url = https://github.com/spbu-coding/2-abn1999.git
