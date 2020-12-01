@@ -5,6 +5,8 @@ update_configs:
     update_schedule: "daily"
     allowed_updates:
       - match:
+          dependency_name: "2-MeviusS"
+      - match:
           dependency_name: "2-fertmanasa"
       - match:
           dependency_name: "2-abn1999"

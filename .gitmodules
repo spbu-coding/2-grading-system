@@ -130,3 +130,6 @@
 [submodule "2-fertmanasa"]
 	path = 2-fertmanasa
 	url = https://github.com/spbu-coding/2-fertmanasa.git
+[submodule "2-MeviusS"]
+	path = 2-MeviusS
+	url = https://github.com/spbu-coding/2-MeviusS.git
