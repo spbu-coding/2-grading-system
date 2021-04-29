@@ -1,0 +1,56 @@
+version: 2
+updates:
+- package-ecosystem: gitsubmodule
+  directory: "/."
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 50
+  allow:
+  - dependency-name: 2-MeviusS
+  - dependency-name: 2-fertmanasa
+  - dependency-name: 2-abn1999
+  - dependency-name: 2-AlexanderRunov
+  - dependency-name: 2-zishkaz
+  - dependency-name: 2-XeniaKart
+  - dependency-name: 2-ViktorKarasss
+  - dependency-name: 2-ToTTopBYxe
+  - dependency-name: 2-Tizain
+  - dependency-name: 2-TimPushkin
+  - dependency-name: 2-TheDarkRisen
+  - dependency-name: 2-st085683
+  - dependency-name: 2-SofuriHafe
+  - dependency-name: 2-smmac72
+  - dependency-name: 2-SlavaLatokhin
+  - dependency-name: 2-ShishaK1N9
+  - dependency-name: 2-rudolf101
+  - dependency-name: 2-Ramazanov-Amir
+  - dependency-name: 2-qsqnk
+  - dependency-name: 2-PyRayman
+  - dependency-name: 2-pervomai
+  - dependency-name: 2-Naniduan
+  - dependency-name: 2-Mishavint
+  - dependency-name: 2-michael555444
+  - dependency-name: 2-MDubovik
+  - dependency-name: 2-MashrurIslam
+  - dependency-name: 2-maria-atmazhitova
+  - dependency-name: 2-MansurSakiev
+  - dependency-name: 2-Lev0nid
+  - dependency-name: 2-kettlberry
+  - dependency-name: 2-IraSheremet
+  - dependency-name: 2-IlyaMuravjov
+  - dependency-name: 2-IAmFunkyFrog
+  - dependency-name: 2-GalbadrakhB
+  - dependency-name: 2-foreverjun
+  - dependency-name: 2-esvault
+  - dependency-name: 2-depressedwizard
+  - dependency-name: 2-DelRoso
+  - dependency-name: 2-danielsheh02
+  - dependency-name: 2-baranov1dragonsuper
+  - dependency-name: 2-AzimMuradov
+  - dependency-name: 2-AShlegel
+  - dependency-name: 2-artmotika
+  - dependency-name: 2-AndreyBryns
+  ignore:
+  - dependency-name: 2-grading-tests
+    versions:
+    - ">= 0"
